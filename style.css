@@ -1,0 +1,9 @@
+
+.thalipith{
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+<body>
+background-image:url=("thalipith.jpg")
+</body>
